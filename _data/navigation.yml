@@ -26,6 +26,5 @@
   url: /page-B/
 - title: WHO WE ARE
   url: /who-we-are/
-  sub-links:
-  - title: CONTACT US
-    url: /contact-us/
+- title: CONTACT US
+  url: /contact-us/
