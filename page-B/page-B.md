@@ -7,6 +7,8 @@ breadcrumb: Page B
 
 ### **Some information**
 
+Some content here is quite interesting.
+
 <table class="table-v">
   <tr>
     <td>Singapore population size</td>

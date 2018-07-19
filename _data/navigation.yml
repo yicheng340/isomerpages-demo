@@ -16,7 +16,7 @@
 - title: DROPDOWN B
   url: /dropdown-B/content-A/
   sub-links:
-  - title: Content B
+  - title: Content A
     url: /dropdown-B/content-A/
   - title: Content B
     url: /dropdown-B/content-B/
