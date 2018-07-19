@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Content B
-permalink: /dropdown-A/content-B/
+permalink: /dropdown-B/content-B/
 breadcrumb: Content B
 collection_name: dropdown-A
 ---
