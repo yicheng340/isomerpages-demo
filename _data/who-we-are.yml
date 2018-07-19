@@ -12,6 +12,6 @@ board-members:
   - name: Ms XYZ
     title: CHAIRMAN, XYZ
     email: xyz.test@fictitious.email.sg
-    - name: Mdm EFG
+  - name: Mdm EFG
     title: CHAIRMAN, EFG
     email: efg.test@fictitious.email.sg
