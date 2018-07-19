@@ -1,0 +1,17 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Who We Are Board Members
+board-members:
+  - name: Mr ABC
+    title: CHAIRMAN, ABC
+    email: abc.test@fictitious.email.sg
+  - name: Ms XYZ
+    title: CHAIRMAN, XYZ
+    email: xyz.test@fictitious.email.sg
+    - name: Mdm EFG
+    title: CHAIRMAN, EFG
+    email: efg.test@fictitious.email.sg
