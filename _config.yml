@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: National Digital Identity
-title-abbreviated: NDI
+title: Isomer Pages Demo Site
+title-abbreviated: Isomer Demo
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A platform to develop applications with access to key Government services
-baseurl: "/isomerpages-ndi" # the subpath of your site, e.g. /blog
+  A demo website for Isomer Pages
+baseurl: "/isomerpages-demo" # the subpath of your site, e.g. /blog
 url: "https://isomerpages.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -49,7 +49,7 @@ collections:
 
 # Resource Room and Pagination
 resources_name: "resources"
-paginate: 12
+paginate: 8
 paginate_path: "/resources/page:num"
 
 
@@ -59,7 +59,7 @@ paginate_path: "/resources/page:num"
 # Homepage sections
 homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights 
 homepage_programmes: false
-homepage_resources: false
+homepage_resources: true
 homepage_careers: false
 
 # Feedback Form URL
