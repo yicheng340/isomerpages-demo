@@ -10,7 +10,7 @@ agency-logo: /images/homepage/isomer-pages-logo.png
 # Hero Banner
 hero-title: Isomer Pages Demo Site
 hero-subtitle: A demo website for Isomer Pages
-hero-banner: /isomerpages-demo/images/homepage/banner_Merlion.png
+hero-banner: /images/homepage/banner_Merlion.png
 
 key-highlights:
   - title: Highlight A
