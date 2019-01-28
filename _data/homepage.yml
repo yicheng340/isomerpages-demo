@@ -14,15 +14,15 @@ hero-banner: /images/homepage/banner_Merlion.png
 
 key-highlights:
   - title: Highlight A
-    description: Important highlight A is important
+    description: Our latest press releases
     url: https://google.com
     external: true
   - title: Highlight B
-    description: Important highlight B is equally important
+    description: Our latest public consultations
     url: https://yahoo.com
     external: true
   - title: Page A
-    description: Page A is important too
+    description: About us
     url: /page-A/
   - title: Dropdown A Content C
     description: Dropdown A Content C is v important
