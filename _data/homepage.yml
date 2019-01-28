@@ -14,7 +14,7 @@ hero-banner: /images/homepage/banner_Merlion.png
 
 key-highlights:
   - title: Highlight A
-    description: Important highlight A is important
+    description: Highlight A is important
     url: https://google.com
     external: true
   - title: Highlight B
@@ -29,7 +29,7 @@ key-highlights:
     url: /dropdown-A/content-C/
 
 # Resources Section
-resources-title: Resources
+resources-title: Resources - New
 resources-subtitle: Be in the know 
 resources-more-button: More Resources
 resources-more-button-url: resources/
