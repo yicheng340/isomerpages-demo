@@ -13,11 +13,11 @@ hero-subtitle: A demo website for Isomer Pages
 hero-banner: /images/homepage/banner_Merlion.png
 
 key-highlights:
-  - title: Highlight A
+  - title: Highlight 1
     description: Important highlight A is important
     url: https://google.com
     external: true
-  - title: Highlight B
+  - title: Highlight 2
     description: Important highlight B is equally important
     url: https://yahoo.com
     external: true
