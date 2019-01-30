@@ -23,14 +23,14 @@
   - title: Content B
     url: /dropdown-B/content-B/
 - title: Resources
-  url: /resource_room/
+  url: /resources/
   sub-links:
   - title: All
-    url: /resource_room/
+    url: /resources/
   - title: Forms and Templates
-    url: /resource_room/forms-and-templates/
+    url: /resources/forms-and-templates/
   - title: Guides
-    url: /resource_room/guides/
+    url: /resources/guides/
 - title: PAGE A
   url: /page-A/
 - title: PAGE B
