@@ -20,6 +20,15 @@
     url: /dropdown-B/content-A/
   - title: Content B
     url: /dropdown-B/content-B/
+- title: Resources
+  url: /resource_room/
+  sub-links:
+  - title: All
+    url: /resource_room/
+  - title: Forms and Templates
+    url: /resource_room/forms-and-templates/
+  - title: Guides
+    url: /resource_room/guides/
 - title: PAGE A
   url: /page-A/
 - title: PAGE B
